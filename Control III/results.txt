@@ -1,0 +1,145 @@
+Query: return
+Results:
+- http|| gsbca2|| gsa|| gov
+- http|| education|| ca|| sandia|| gov
+- http|| www|| niuf|| nist|| gov
+
+Query: stars
+No results found.
+
+Query: gleam
+No results found.
+
+Query: quiet
+No results found.
+
+Query: forest
+No results found.
+
+Query: whispers
+No results found.
+
+Query: rolling
+No results found.
+
+Query: hills
+No results found.
+
+Query: stretch
+No results found.
+
+Query: time
+Results:
+- http|| www|| niuf|| nist|| gov
+
+Query: flies
+No results found.
+
+Query: quickly
+No results found.
+
+Query: december
+Results:
+- http|| education|| ca|| sandia|| gov
+- http|| www|| niuf|| nist|| gov
+
+Query: rain
+No results found.
+
+Query: falls
+No results found.
+
+Query: vast
+No results found.
+
+Query: oceans
+No results found.
+
+Query: call
+No results found.
+
+Query: silent
+No results found.
+
+Query: night
+No results found.
+
+Query: sleeps
+No results found.
+
+Query: dreams
+No results found.
+
+Query: awaken
+No results found.
+
+Query: strategies
+Results:
+- http|| web|| ncifcrf|| gov
+
+Query: shadows
+No results found.
+
+Query: drift
+No results found.
+
+Query: afar
+No results found.
+
+Query: laughter
+No results found.
+
+Query: echoes
+No results found.
+
+Query: loudly
+No results found.
+
+Query: rivers
+No results found.
+
+Query: power
+Results:
+- http|| www|| bpa|| gov
+- http|| www|| wapa|| gov
+
+Query: endless
+No results found.
+
+Query: golden
+No results found.
+
+Query: rays
+No results found.
+
+Query: shine
+No results found.
+
+Query: clouds
+No results found.
+
+Query: scatter
+No results found.
+
+Query: peacefully
+No results found.
+
+Query: winds
+No results found.
+
+Query: howl
+No results found.
+
+Query: work
+Results:
+- http|| www|| niuf|| nist|| gov
+
+Query: moments
+No results found.
+
+Query: fade
+No results found.
+
+Query: gently
+No results found.
+
