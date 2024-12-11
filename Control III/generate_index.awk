@@ -1,44 +1,34 @@
 #!/usr/bin/awk -f
 
 BEGIN {
-    FS = "\\|\\|"; # Définir le séparateur pour détecter les délimitations
+    FS = "\\|\\|"; # Definir el separador para detectar las delimitaciones
     output_file = "inverted_index.txt";
-    debug_file = "debug_log.txt";
-    print "Démarrage du traitement des données..." > debug_file;
 }
 
 {
-    # Vérifier qu'il y a au moins deux champs séparés par '||'
-    if (NF < 2) {
-        print "Erreur : Ligne mal formatée, ignorée : " $0 >> debug_file;
-        next;
-    }
-
-    # L'URL est composée des colonnes avant le dernier champ
+    # La URL está compuesta por las columnas antes del último campo
     url = $1;
     for (i = 2; i < NF; i++) {
         url = url "||" $i;
     }
 
-    # Le contenu est la dernière colonne
+    # El contenido es la última columna
     content = $NF;
 
-    # Vérification de l'URL
+    # Verificación de la URL
     if (url == "" || content == "") {
-        print "Erreur : URL ou contenu vide pour la ligne : " $0 >> debug_file;
         next;
     }
 
-    print "URL traitée : " url >> debug_file;
 
-    # Diviser le contenu en mots
+    # Dividir el contenido en palabras
     n = split(content, words, /[^a-zA-Z0-9]+/);
 
     for (i = 1; i <= n; i++) {
-        word = tolower(words[i]); # Convertir en minuscule pour uniformité
+        word = tolower(words[i]); # Convertir a minúsculas para uniformidad
 
-        if (word != "" && length(word) > 1) { # Ignorer les mots vides ou trop courts
-            # Ajouter l'URL à la liste pour ce mot
+        if (word != "" && length(word) > 1) { # Ignorar palabras vacías o demasiado cortas
+            # Añadir la URL a la lista para esta palabra
             if (!(word in inverted_index)) {
                 inverted_index[word] = url;
             } else {
@@ -46,20 +36,18 @@ BEGIN {
                     inverted_index[word] = inverted_index[word] ", " url;
                 }
             }
-            print "Mot : " word ", URL ajoutée : " url >> debug_file;
         }
     }
 }
 
 END {
-    print "Écriture de l'indice inversé dans un fichier unique..." >> debug_file;
 
-    # Écrire l'indice inversé dans un fichier
+    # Escribir el índice invertido en un archivo
     for (word in inverted_index) {
         print word ": " inverted_index[word] >> output_file;
     }
 
     close(output_file);
-    print "Indice inversé généré avec succès dans " output_file;
-    print "Journal de débogage disponible dans " debug_file;
+    print "Índice invertido generado con éxito en " output_file;
+    print "Registro de depuración disponible en " debug_file;
 }

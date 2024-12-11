@@ -1,145 +1,145 @@
-Query: return
-Results:
+Consulta: return
+Resultados:
+- http|| www|| niuf|| nist|| gov
 - http|| gsbca2|| gsa|| gov
 - http|| education|| ca|| sandia|| gov
+
+Consulta: stars
+No se encontraron resultados.
+
+Consulta: gleam
+No se encontraron resultados.
+
+Consulta: quiet
+No se encontraron resultados.
+
+Consulta: forest
+No se encontraron resultados.
+
+Consulta: whispers
+No se encontraron resultados.
+
+Consulta: rolling
+No se encontraron resultados.
+
+Consulta: hills
+No se encontraron resultados.
+
+Consulta: stretch
+No se encontraron resultados.
+
+Consulta: time
+Resultados:
 - http|| www|| niuf|| nist|| gov
 
-Query: stars
-No results found.
+Consulta: flies
+No se encontraron resultados.
 
-Query: gleam
-No results found.
+Consulta: quickly
+No se encontraron resultados.
 
-Query: quiet
-No results found.
-
-Query: forest
-No results found.
-
-Query: whispers
-No results found.
-
-Query: rolling
-No results found.
-
-Query: hills
-No results found.
-
-Query: stretch
-No results found.
-
-Query: time
-Results:
+Consulta: december
+Resultados:
 - http|| www|| niuf|| nist|| gov
-
-Query: flies
-No results found.
-
-Query: quickly
-No results found.
-
-Query: december
-Results:
 - http|| education|| ca|| sandia|| gov
-- http|| www|| niuf|| nist|| gov
 
-Query: rain
-No results found.
+Consulta: rain
+No se encontraron resultados.
 
-Query: falls
-No results found.
+Consulta: falls
+No se encontraron resultados.
 
-Query: vast
-No results found.
+Consulta: vast
+No se encontraron resultados.
 
-Query: oceans
-No results found.
+Consulta: oceans
+No se encontraron resultados.
 
-Query: call
-No results found.
+Consulta: call
+No se encontraron resultados.
 
-Query: silent
-No results found.
+Consulta: silent
+No se encontraron resultados.
 
-Query: night
-No results found.
+Consulta: night
+No se encontraron resultados.
 
-Query: sleeps
-No results found.
+Consulta: sleeps
+No se encontraron resultados.
 
-Query: dreams
-No results found.
+Consulta: dreams
+No se encontraron resultados.
 
-Query: awaken
-No results found.
+Consulta: awaken
+No se encontraron resultados.
 
-Query: strategies
-Results:
+Consulta: strategies
+Resultados:
 - http|| web|| ncifcrf|| gov
 
-Query: shadows
-No results found.
+Consulta: shadows
+No se encontraron resultados.
 
-Query: drift
-No results found.
+Consulta: drift
+No se encontraron resultados.
 
-Query: afar
-No results found.
+Consulta: afar
+No se encontraron resultados.
 
-Query: laughter
-No results found.
+Consulta: laughter
+No se encontraron resultados.
 
-Query: echoes
-No results found.
+Consulta: echoes
+No se encontraron resultados.
 
-Query: loudly
-No results found.
+Consulta: loudly
+No se encontraron resultados.
 
-Query: rivers
-No results found.
+Consulta: rivers
+No se encontraron resultados.
 
-Query: power
-Results:
+Consulta: power
+Resultados:
 - http|| www|| bpa|| gov
 - http|| www|| wapa|| gov
 
-Query: endless
-No results found.
+Consulta: endless
+No se encontraron resultados.
 
-Query: golden
-No results found.
+Consulta: golden
+No se encontraron resultados.
 
-Query: rays
-No results found.
+Consulta: rays
+No se encontraron resultados.
 
-Query: shine
-No results found.
+Consulta: shine
+No se encontraron resultados.
 
-Query: clouds
-No results found.
+Consulta: clouds
+No se encontraron resultados.
 
-Query: scatter
-No results found.
+Consulta: scatter
+No se encontraron resultados.
 
-Query: peacefully
-No results found.
+Consulta: peacefully
+No se encontraron resultados.
 
-Query: winds
-No results found.
+Consulta: winds
+No se encontraron resultados.
 
-Query: howl
-No results found.
+Consulta: howl
+No se encontraron resultados.
 
-Query: work
-Results:
+Consulta: work
+Resultados:
 - http|| www|| niuf|| nist|| gov
 
-Query: moments
-No results found.
+Consulta: moments
+No se encontraron resultados.
 
-Query: fade
-No results found.
+Consulta: fade
+No se encontraron resultados.
 
-Query: gently
-No results found.
+Consulta: gently
+No se encontraron resultados.
 

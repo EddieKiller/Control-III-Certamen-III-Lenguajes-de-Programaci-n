@@ -1,6 +1,6 @@
 import re
 
-# Liste des stopwords
+# Lista de stopwords
 stopwords = [
   "a", "an", "the",
   "I", "you", "he", "she", "it", "we", "they", "me", "him", "her", "us", "them", "my", "your", "his", "her", "its", "our", "their", "mine", "yours", "theirs",
@@ -11,24 +11,24 @@ stopwords = [
   "if", "because", "as", "until", "while", "of", "with", "at", "about", "against", "between", "into", "through", "during", "before", "after", "above", "below", "to", "from", "up", "down", "in", "out", "on", "off", "over", "under", "again", "further", "then", "once"
 ]
 
-# Fonction pour vérifier si une ligne contient un stopword
+# Función para verificar si una línea contiene un stopword
 def contains_stopwords(line, stopwords):
-    words = re.split(r'\W+', line)  # Séparer les mots par des délimiteurs non-alphanumériques
+    words = re.split(r'\W+', line)  # Dividir las palabras usando delimitadores no alfanuméricos
     return any(word.lower() in stopwords for word in words)
 
-# Fichiers d'entrée et de sortie
-input_file = "inverted_index.txt"  # Remplacez par le nom du fichier d'entrée
+# Archivos de entrada y salida
+input_file = "inverted_index.txt"  # Reemplazar con el nombre del archivo de entrada
 output_file = "cleaned_file.txt"
 log_file = "removed_lines_log.txt"
 
-# Traitement du fichier
+# Procesamiento del archivo
 with open(input_file, 'r') as infile, open(output_file, 'w') as outfile, open(log_file, 'w') as logfile:
     for line in infile:
         if contains_stopwords(line, stopwords):
-            # Loguer la ligne supprimée
-            logfile.write(f"stopword borrada : {line}")
+            # Registrar la línea eliminada
+            logfile.write(f"stopword eliminada : {line}")
         else:
-            # Écrire la ligne sans stopwords
+            # Escribir la línea sin stopwords
             outfile.write(line)
 
-print(f"Traitement terminé. Lignes restantes enregistrées dans {output_file}. Lignes supprimées enregistrées dans {log_file}.")
+print(f"Procesamiento completado. Las líneas restantes se guardaron en {output_file}. Las líneas eliminadas se registraron en {log_file}.")
