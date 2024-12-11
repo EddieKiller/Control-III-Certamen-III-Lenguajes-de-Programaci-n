@@ -1,0 +1,61 @@
+stopword borrada : are: http|| sgra|| jpl|| nasa|| gov, http|| seawifs|| gsfc|| nasa|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : and: http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : any: http|| www|| niuf|| nist|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : about: http|| web|| ncifcrf|| gov
+stopword borrada : here: http|| sgra|| jpl|| nasa|| gov
+stopword borrada : to: http|| sgra|| jpl|| nasa|| gov, http|| pst|| pppl|| gov, http|| nuclear|| gov, http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : with: http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| web|| ncifcrf|| gov, http|| seawifs|| gsfc|| nasa|| gov
+stopword borrada : without: http|| education|| ca|| sandia|| gov
+stopword borrada : will: http|| gsbca2|| gsa|| gov
+stopword borrada : its: http|| gsbca2|| gsa|| gov
+stopword borrada : for: http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| web|| ncifcrf|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : most: http|| education|| ca|| sandia|| gov
+stopword borrada : around: http|| www|| niuf|| nist|| gov
+stopword borrada : you: http|| nuclear|| gov, http|| education|| ca|| sandia|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : were: http|| seawifs|| gsfc|| nasa|| gov
+stopword borrada : above: http|| education|| ca|| sandia|| gov
+stopword borrada : if: http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| web|| ncifcrf|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : in: http|| education|| ca|| sandia|| gov, http|| seawifs|| gsfc|| nasa|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : us: http|| sgra|| jpl|| nasa|| gov, http|| education|| ca|| sandia|| gov
+stopword borrada : an: http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : is: http|| pst|| pppl|| gov, http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : it: http|| www|| niuf|| nist|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : as: http|| www|| niuf|| nist|| gov
+stopword borrada : at: http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| web|| ncifcrf|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : how: http|| seawifs|| gsfc|| nasa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : but: http|| seawifs|| gsfc|| nasa|| gov
+stopword borrada : within: http|| www|| niuf|| nist|| gov
+stopword borrada : below: http|| seawifs|| gsfc|| nasa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : during: http|| education|| ca|| sandia|| gov
+stopword borrada : all: http|| education|| ca|| sandia|| gov, http|| web|| ncifcrf|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : the: http|| sgra|| jpl|| nasa|| gov, http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| web|| ncifcrf|| gov, http|| seawifs|| gsfc|| nasa|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : was: http|| gsbca2|| gsa|| gov
+stopword borrada : be: http|| pst|| pppl|| gov, http|| education|| ca|| sandia|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : no: http|| www|| niuf|| nist|| gov
+stopword borrada : by: http|| pst|| pppl|| gov, http|| education|| ca|| sandia|| gov, http|| web|| ncifcrf|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : once: http|| gsbca2|| gsa|| gov
+stopword borrada : does: http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : must: http|| nuclear|| gov
+stopword borrada : they: http|| www|| niuf|| nist|| gov, http|| seawifs|| gsfc|| nasa|| gov
+stopword borrada : between: http|| gsbca2|| gsa|| gov
+stopword borrada : have: http|| nuclear|| gov, http|| www|| niuf|| nist|| gov
+stopword borrada : may: http|| education|| ca|| sandia|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : when: http|| gsbca2|| gsa|| gov
+stopword borrada : been: http|| gsbca2|| gsa|| gov
+stopword borrada : your: http|| www|| niuf|| nist|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : other: http|| www|| niuf|| nist|| gov, http|| www|| bpa|| gov
+stopword borrada : of: http|| nuclear|| gov, http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| web|| ncifcrf|| gov, http|| seawifs|| gsfc|| nasa|| gov, http|| www|| wapa|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : so: http|| gsbca2|| gsa|| gov
+stopword borrada : on: http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : not: http|| seawifs|| gsfc|| nasa|| gov, http|| www|| bpa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : or: http|| gsbca2|| gsa|| gov
+stopword borrada : now: http|| sgra|| jpl|| nasa|| gov
+stopword borrada : into: http|| gsbca2|| gsa|| gov
+stopword borrada : has: http|| sgra|| jpl|| nasa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : only: http|| gsbca2|| gsa|| gov
+stopword borrada : our: http|| education|| ca|| sandia|| gov, http|| www|| bpa|| gov
+stopword borrada : out: http|| education|| ca|| sandia|| gov
+stopword borrada : more: http|| www|| niuf|| nist|| gov, http|| education|| ca|| sandia|| gov, http|| web|| ncifcrf|| gov
+stopword borrada : can: http|| www|| niuf|| nist|| gov, http|| seawifs|| gsfc|| nasa|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : from: http|| sgra|| jpl|| nasa|| gov, http|| education|| ca|| sandia|| gov, http|| gsbca2|| gsa|| gov
+stopword borrada : after: http|| gsbca2|| gsa|| gov
